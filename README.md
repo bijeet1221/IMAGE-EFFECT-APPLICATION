@@ -24,7 +24,6 @@ Frontend: Angular
 Backend: C++, Java
 # Demo
 
-  '''bash
   git clone https://github.com/bijeet/IMAGE-EFFECT-APPLICATION
 
 Right click on the libraries directory and go to the Mark directory as > sources root
