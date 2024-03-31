@@ -22,8 +22,9 @@ This project is an image processing application which takes images and does the 
 Frontend: Angular
 
 Backend: C++, Java
-Demo
+# Demo
 
+  '''bash
   git clone https://github.com/bijeet/IMAGE-EFFECT-APPLICATION
 
 Right click on the libraries directory and go to the Mark directory as > sources root
